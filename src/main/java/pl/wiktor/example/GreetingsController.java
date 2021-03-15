@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
@@ -27,7 +26,7 @@ public class GreetingsController {
         return "Greetings! You've reached this!";
     }
 
-    @GetMapping("users")
+    @GetMapping("/users")
     private String getUsers() {
         userRepository.save(new User(String.valueOf(new Random().nextInt(20000))));
 
