@@ -1,12 +1,12 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy backend - chat-wm-api
+name: Build and deploy test backend
 
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
         java-version: '11'
 
     - name: Build with Maven
-      run: mvn package -f backend/chat-backend/pom.xml
+      run: mvn package
       
     - name: Move jar and web.config to staging directory
       run: mkdir staging && cp target/*.jar staging && cp web.config staging
@@ -33,7 +33,7 @@ jobs:
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
       with:
-        app-name: 'chat-wm-api'
+        app-name: 'testing-123'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_a324962653ce4395ad072f783f5fd616 }}
         package: 'staging'
