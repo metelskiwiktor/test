@@ -1,54 +1,9 @@
 {
   "photos": [
     {
-      "title": "Moomin toys",
-      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Moomin_toys.jpg/720px-Moomin_toys.jpg",
-      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Moomin_toys.jpg/720px-Moomin_toys.jpg"
-    },
-    {
-      "title": "Tove Jansson and Moomins",
-      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tove_Jansson_1956.jpg/720px-Tove_Jansson_1956.jpg",
-      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tove_Jansson_1956.jpg/720px-Tove_Jansson_1956.jpg"
-    },
-    {
-      "title": "Moomintroll at Stockmann",
-      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moomintroll_at_Stockmann_in_May_2025.jpg/720px-Moomintroll_at_Stockmann_in_May_2025.jpg",
-      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moomintroll_at_Stockmann_in_May_2025.jpg/720px-Moomintroll_at_Stockmann_in_May_2025.jpg"
-    },
-    {
-      "title": "Moomin in Starlight",
-      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Silja_Serenade_-_20220630_-_28_-_Mumin_i_Starlight.jpg/720px-Silja_Serenade_-_20220630_-_28_-_Mumin_i_Starlight.jpg",
-      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Silja_Serenade_-_20220630_-_28_-_Mumin_i_Starlight.jpg/720px-Silja_Serenade_-_20220630_-_28_-_Mumin_i_Starlight.jpg"
-    },
-    {
-      "title": "Little My and Moomin",
-      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Silja_Serenade,_20221209,_Little_My,_Mommin,_promenade,_06.jpg/720px-Silja_Serenade,_20221209,_Little_My,_Mommin,_promenade,_06.jpg",
-      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Silja_Serenade,_20221209,_Little_My,_Mommin,_promenade,_06.jpg/720px-Silja_Serenade,_20221209,_Little_My,_Mommin,_promenade,_06.jpg"
-    },
-    {
-      "title": "Moomin disco",
-      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Silja_Serenade,_20221209,_Moomin_disco,_03.jpg/720px-Silja_Serenade,_20221209,_Moomin_disco,_03.jpg",
-      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Silja_Serenade,_20221209,_Moomin_disco,_03.jpg/720px-Silja_Serenade,_20221209,_Moomin_disco,_03.jpg"
-    },
-    {
-      "title": "Moomin",
-      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Silja_Symphony_-_20220706_-_13_-_Mumin.jpg/720px-Silja_Symphony_-_20220706_-_13_-_Mumin.jpg",
-      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Silja_Symphony_-_20220706_-_13_-_Mumin.jpg/720px-Silja_Symphony_-_20220706_-_13_-_Mumin.jpg"
-    },
-    {
-      "title": "Moominmamma",
-      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Silja_Symphony_-_20220707_-_12_-_Muminmamma_p%C3%A5_Silja_Symphony.jpg/720px-Silja_Symphony_-_20220707_-_12_-_Muminmamma_p%C3%A5_Silja_Symphony.jpg",
-      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Silja_Symphony_-_20220707_-_12_-_Muminmamma_p%C3%A5_Silja_Symphony.jpg/720px-Silja_Symphony_-_20220707_-_12_-_Muminmamma_p%C3%A5_Silja_Symphony.jpg"
-    },
-    {
-      "title": "Moominworld theatre",
-      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Teatteri_Emma.jpg/720px-Teatteri_Emma.jpg",
-      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Teatteri_Emma.jpg/720px-Teatteri_Emma.jpg"
-    },
-    {
-      "title": "The Groke's cave - Moominworld",
-      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Groke's_cave,_Moominworld.jpg/720px-The_Groke's_cave,_Moominworld.jpg",
-      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Groke's_cave,_Moominworld.jpg/720px-The_Groke's_cave,_Moominworld.jpg"
+      "title": "Moomintroll",
+      "url-1080": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Muumipeikko.jpg",
+      "url-4K": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Muumipeikko.jpg"
     }
   ]
 }
